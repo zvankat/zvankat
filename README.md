@@ -37,6 +37,7 @@
 #
 <b> ⚡ Пройденные курсы: </b>
 - "Яндекс лицей (Frontend-1: шаг за шагом)" - https://education.yandex.ru/profile/docs?id=3e5bd2e7-bcd3-4f87-84ce-7862c22c5bdb
+- "Stepik (Твой JavaScript)" - https://stepik.org/cert/3150750
 #
 <b> 📫 Контакты: </b> 
 > Telegram - [✈️ t.me.vankatoF](t.me/vankatoF)
