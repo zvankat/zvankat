@@ -1,44 +1,61 @@
 # 👨‍💻 TeamLead Fullstack Developer | Cybersecurity Specialist
-<b> ☘️ Обо мне: </b> Я — TeamLead разработчик с опытом в DevOps, Fullstack-разработке (Frontend/Backend) и системном администрировании.
-Создаю сложные системы, автоматизирую процессы и обеспечиваю кибербезопасность инфраструктуры. 
-<br>
-<br>
-**🍃 Моя экспертиза:**  
-- **GameDev**: Java (Minecraft), Lua (MTA), C# (Unity);
-- **Frontend**: React.js, HTML5, CSS3, JavaScript;
-- **Backend**: Node.js (Discord/VK API);
-- **Инфраструктура**: Настройка Linux серверов;
-  
-![](https://panels.twitch.tv/panel-761013932-image-3a562804-5988-4616-a2f9-cce8e7256838)
-#
-<b> 🛠️ Ключевые проекты: </b>
-| Категория               | Что умею делать                                                                 |
-|-------------------------|-------------------------------------------------------------------------|
-| **📗 Minecraft** | Плагины для Minecraft (1.8.9 -> 1.21.4) <br> Кастомные ресурспаки <br> Модели для модов или ресурспаков |
-| **📙 Discord** | Активный разработчик ботов используя сложные элементы логики <br> Создание оформление для серверов и профилей |
-| **📘 ВКонтакте** | Профисиональное создание групп и их оформление <br> Настройка и создание ботов |
-| **📕 Прочее** | Верстка сайтов <br> Защита от взломов и DDoS-атак <br> Скрипты для игры <br> Настройка серверов |
-#
-<b> 🔧 Технологический стек: </b>
-```diff
-+ Java (Minecraft Plugin API)
-+ JavaScript/TypeScript (React, Node.js)
-! Lua (MTA Scripting)
-! C# (UnityHub, App)
-# HTML5/CSS3 (Верстка)
-- Discord.js / VK API
-- Linux Server Administration
-```
-#
-<b> 📌 Особые навыки: </b>
-- Создание сложной игровой логики
-- Интеграция API между платформами
-- Оптимизация производительности
-#
-<b> ⚡ Пройденные курсы: </b>
-- "Яндекс лицей (Frontend-1: шаг за шагом)" - https://education.yandex.ru/profile/docs?id=3e5bd2e7-bcd3-4f87-84ce-7862c22c5bdb
-- "Stepik (Твой JavaScript)" - https://stepik.org/cert/3150750
-#
-<b> 📫 Контакты: </b> 
-> Telegram - [✈️ t.me.vankatoF](t.me/vankatoF)
-#
+
+<img align="right" width="700" style="border-radius: 10px;" src="https://github.com/zvankat/zvankat/blob/main/обомне.png" />
+
+<p>🍀 Я — TeamLead разработчик с опытом в Fullstack-разработке (Frontend/Backend) и системном администрировании. Создаю сложные системы, автоматизирую процессы и обеспечиваю кибербезопасность инфраструктуры.</p>
+
+<p>🎨 <b>Фронтенд — главное</b><br>
+Интерфейсы, клиентская логика, UX — здесь я чувствую себя как рыба в воде. Бэкенд знаю ровно настолько, чтобы понимать, как работает сайт целиком, и нормально общаться с командой.</p>
+
+<p>🧰 <b>Что еще умею:</b></p>
+
+<ul>
+  <li>🐧 Администрирование Linux-серверов</li>
+  <li>🎮 C# (в том числе игры)</li>
+  <li>🤖 Боты для соцсетей</li>
+  <li>⛏️ Плагины для Minecraft на Java</li>
+  <li>📱 Мобильная разработка</li>
+</ul>
+
+<p>🔐 <b>Отдельная зона экспертизы</b> — кибербезопасность инфраструктуры. Понимаю принципы защиты и применяю их на практике.</p>
+
+<p>👥 <b>Как TeamLead</b> — фокусируюсь на выстраивании процессов, развитии команды и создании качественных продуктов, опираясь на свой разносторонний технический бэкграунд.</p>
+
+<hr>
+
+<img align="center" style="border-radius: 10px; margin-right: 30px;" src="https://github.com/zvankat/zvankat/blob/main/стеки_т.png" />
+
+<hr>
+
+<h3>📚 Пройденные курсы</h3>
+<table>
+  <tr>
+    <th width="50" align="center">Статус</th>
+    <th align="left">Название курса</th>
+    <th align="center">Сертификат</th>
+  </tr>
+  <tr>
+    <td width="50" align="center">✅</td>
+    <td><b>Яндекс лицей (Frontend-1: шаг за шагом)</b></td>
+    <td align="center"><a href="https://education.yandex.ru/profile/docs?id=3e5bd2e7-bcd3-4f87-84ce-7862c22c5bdb">🔗 Смотреть</a></td>
+  </tr>
+  <tr>
+    <td width="50" align="center">✅</td>
+    <td><b>Stepik (Твой JavaScript)</b></td>
+    <td align="center"><a href="https://stepik.org/cert/3150750">🔗 Смотреть</a></td>
+  </tr>
+  <tr>
+    <td width="50" align="center">⌛</td>
+    <td><b>ReactJS</b></td>
+    <td align="center">❌ Отсутствует</td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>📬 Связь со мной</h3>
+<p>
+  ✈️ <b>Telegram:</b> <a href="https://t.me/vankatoF">@vankatoF</a> 
+  — пишите по любым вопросам!
+</p>
+<hr>
