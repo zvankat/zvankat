@@ -1,6 +1,6 @@
 # 👨‍💻 TeamLead Fullstack Developer | Cybersecurity Specialist
 
-<img align="right" width="700" style="border-radius: 10px;" src="https://github.com/zvankat/zvankat/blob/main/обомне.png" />
+<img align="right" width="600" style="border-radius: 10px;" src="https://github.com/zvankat/zvankat/blob/main/обомне.png" />
 
 <p>🍀 Я — TeamLead разработчик с опытом в Fullstack-разработке (Frontend/Backend) и системном администрировании. Создаю сложные системы, автоматизирую процессы и обеспечиваю кибербезопасность инфраструктуры.</p>
 
