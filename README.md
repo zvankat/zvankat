@@ -37,7 +37,7 @@
   <tr>
     <td width="50" align="center">✅</td>
     <td><b>Яндекс лицей (Frontend-1: шаг за шагом)</b></td>
-    <td align="center"><a href="https://education.yandex.ru/profile/docs?id=3e5bd2e7-bcd3-4f87-84ce-7862c22c5bdb">🔗 Смотреть</a></td>
+    <td align="center"><a href="https://education.yandex.ru/profile/docs?id=a4f306b4-1494-4fae-8738-bb362ed6da91">🔗 Смотреть</a></td>
   </tr>
   <tr>
     <td width="50" align="center">✅</td>
